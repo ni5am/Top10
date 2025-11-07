@@ -87,7 +87,7 @@ The following organizations (along with several anonymous donors) kindly donated
 * Anonymous (multiple)
 * Bugcrowd
 * Contrast Security
-* CryptoNet Labs
+* CyptoNet Labs
 * Intuitor SoftTech Services
 * Orca Security
 * Probley
