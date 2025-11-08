@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/css/RC-stylesheet.css" />
 
-# A06:2025 불안전한 설계 (Insecure Design) ![icon](../assets/TOP_10_Icons_Final_Insecure_Design.png){: style="height:80px;width:80px" align="right"}
+# A06:2025 불안전한 설계 (Insecure Design)
 
 
 ## 배경 (Background). 

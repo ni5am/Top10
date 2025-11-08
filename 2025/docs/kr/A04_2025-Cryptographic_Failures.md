@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/css/RC-stylesheet.css" />
 
-# A04:2025 암호화 실패 (Cryptographic Failures) ![icon](../assets/TOP_10_Icons_Final_Crypto_Failures.png){: style="height:80px;width:80px" align="right"}
+# A04:2025 암호화 실패 (Cryptographic Failures) 
 
 
 

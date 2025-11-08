@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/css/RC-stylesheet.css" />
 
-# A08:2025 소프트웨어 또는 데이터 무결성 실패 (Software or Data Integrity Failures) ![icon](../assets/TOP_10_Icons_Final_Software_and_Data_Integrity_Failures.png){: style="height:80px;width:80px" align="right"}
+# A08:2025 소프트웨어 또는 데이터 무결성 실패 (Software or Data Integrity Failures) 
 
 ## 배경 (Background). 
 
