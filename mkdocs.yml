@@ -12,9 +12,6 @@ copyright: © Copyright 2021 - OWASP Top 10 team - This work is licensed under a
 
 #Config
 docs_dir: 2025/docs
-google_analytics:
-  - !!python/object/apply:os.getenv ["WORKFLOW_GOOGLE_ANALYTICS_KEY", "none"]
-  - auto
 use_directory_urls: false
 plugins:
   - search:
@@ -37,7 +34,6 @@ plugins:
 #For material
 theme:
   name: material
-  custom_dir: custom_theme/
   favicon: assets/WebSite_Favicon.png
   logo: "assets/OWASP_Logo_Transp.png"
 markdown_extensions:
