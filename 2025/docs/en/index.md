@@ -4,6 +4,10 @@ Welcome to the OWASP Top 10:2025 Release.
 
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
+## Download
+
+[Download PDF :material-file-pdf-box:](../assets/OWASP_Top10_2025.pdf){: .md-button .md-button--primary download="OWASP_Top10_2025.pdf" }
+
 ## About This Release
 
 This is the **2025** version of the OWASP Top 10. This version includes updates based on the latest data and security trends.
